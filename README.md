@@ -1,6 +1,3 @@
-# Discord-Themes
- In Here I will update the discord theme I use for my personal use with customizations
-
 ## Installing a theme
 First of all, make sure you have installed [BetterDiscord](https://betterdiscord.app/)
 or [Vencord] (https://vencord.dev)
